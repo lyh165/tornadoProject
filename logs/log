@@ -1,0 +1,1839 @@
+[W 180527 22:26:58 Passport:11] warning msg
+[E 180527 22:26:58 Passport:12] error msg
+[D 180527 22:31:23 Passport:9] error msg
+[I 180527 22:31:23 Passport:10] info msg
+[W 180527 22:31:23 Passport:11] warning msg
+[E 180527 22:31:23 Passport:12] error msg
+[I 180527 22:31:23 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[I 180527 22:33:10 autoreload:196] C:\Users\Hasee\Desktop\tornado\Tornado_project\config.py modified; restarting server
+[I 180527 22:33:27 autoreload:196] C:\Users\Hasee\Desktop\tornado\Tornado_project\config.py modified; restarting server
+[I 180527 22:33:47 autoreload:196] C:\Users\Hasee\Desktop\tornado\Tornado_project\config.py modified; restarting server
+[I 180527 22:39:32 autoreload:196] C:\Users\Hasee\Desktop\tornado\Tornado_project\urls.py modified; restarting server
+[I 180528 00:25:52 autoreload:196] C:\Users\Hasee\Desktop\tornado\Tornado_project\urls.py modified; restarting server
+[D 180528 02:57:40 Passport:9] error msg
+[I 180528 02:57:40 Passport:10] info msg
+[W 180528 02:57:40 Passport:11] warning msg
+[E 180528 02:57:40 Passport:12] error msg
+[I 180528 02:57:40 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[W 180528 02:57:40 web:2106] 404 GET /favicon.ico (127.0.0.1) 4.00ms
+[W 180528 02:58:11 web:2106] 404 GET /api/imagecode?codeid=123&pcodeid= (127.0.0.1) 1.00ms
+[E 180528 02:59:37 VerifyCode:25] incomplete format
+[I 180528 02:59:37 web:2106] 200 GET /api/imagecode?codeid=123&pcodeid= (127.0.0.1) 29.00ms
+[E 180528 03:02:10 VerifyCode:25] incomplete format
+[I 180528 03:02:10 web:2106] 200 GET /api/imagecode?codeid=123&pcodeid= (127.0.0.1) 19.00ms
+[E 180528 03:02:35 VerifyCode:25] incomplete format
+[I 180528 03:02:35 web:2106] 200 GET /api/imagecode?codeid=123&pcodeid= (127.0.0.1) 7.00ms
+[E 180528 03:04:27 VerifyCode:25] incomplete format
+[I 180528 03:04:27 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 18.00ms
+[E 180528 03:04:27 VerifyCode:25] incomplete format
+[I 180528 03:04:27 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 7.00ms
+[E 180528 03:04:29 VerifyCode:25] incomplete format
+[I 180528 03:04:29 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 6.00ms
+[E 180528 03:04:29 VerifyCode:25] incomplete format
+[I 180528 03:04:29 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 14.00ms
+[E 180528 03:04:30 VerifyCode:25] incomplete format
+[I 180528 03:04:30 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 17.00ms
+[E 180528 03:04:30 VerifyCode:25] incomplete format
+[I 180528 03:04:30 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 8.00ms
+[E 180528 03:04:30 VerifyCode:25] incomplete format
+[I 180528 03:04:30 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 11.00ms
+[E 180528 03:04:31 VerifyCode:25] incomplete format
+[I 180528 03:04:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 15.00ms
+[E 180528 03:04:31 VerifyCode:25] incomplete format
+[I 180528 03:04:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 6.00ms
+[E 180528 03:04:31 VerifyCode:25] incomplete format
+[I 180528 03:04:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 6.00ms
+[E 180528 03:04:31 VerifyCode:25] incomplete format
+[I 180528 03:04:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 6.00ms
+[E 180528 03:04:31 VerifyCode:25] incomplete format
+[I 180528 03:04:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 6.00ms
+[E 180528 03:07:30 VerifyCode:25] incomplete format
+[I 180528 03:07:30 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 18.00ms
+[E 180528 03:11:52 VerifyCode:25] incomplete format
+[I 180528 03:11:52 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 19.00ms
+[E 180528 03:12:20 VerifyCode:25] incomplete format
+[I 180528 03:12:20 web:2106] 304 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 17.00ms
+[E 180528 03:12:30 VerifyCode:15] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 03:12:30 VerifyCode:25] incomplete format
+[I 180528 03:12:30 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid=1 (127.0.0.1) 2012.00ms
+[I 180528 03:16:12 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\VerifyCode.py modified; restarting server
+[I 180528 03:16:44 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\VerifyCode.py modified; restarting server
+[I 180528 03:25:38 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\VerifyCode.py modified; restarting server
+[I 180528 03:32:30 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[I 180528 03:32:46 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[I 180528 03:33:08 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[E 180528 03:37:46 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:46 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:46 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:49 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:38:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:38:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[E 180528 03:38:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 193, in __init__
+        self.initialize(**kwargs)
+    TypeError: initialize() got an unexpected keyword argument 'defalut_filename'
+[I 180528 03:39:18 web:2106] 200 GET / (127.0.0.1) 219.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 36.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/swiper/css/swiper.min.css (127.0.0.1) 34.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 19.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/css/ihome/index.css (127.0.0.1) 13.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 42.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 10.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css (127.0.0.1) 34.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/js/template.js (127.0.0.1) 23.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js (127.0.0.1) 18.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (127.0.0.1) 15.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 31.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/swiper/js/swiper.jquery.min.js (127.0.0.1) 23.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 17.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/js/ihome/index.js (127.0.0.1) 8.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 5.00ms
+[I 180528 03:39:18 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 13.00ms
+[W 180528 03:39:18 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 03:39:18 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 03:39:18 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 03:39:22 web:2106] 200 GET /search.html?aid=&aname=&sd=&ed= (127.0.0.1) 2.00ms
+[I 180528 03:39:22 web:2106] 200 GET /static/css/ihome/search.css (127.0.0.1) 2.00ms
+[I 180528 03:39:22 web:2106] 200 GET /static/js/ihome/search.js (127.0.0.1) 2.00ms
+[W 180528 03:39:22 web:2106] 404 GET /api/house/area (127.0.0.1) 2.00ms
+[W 180528 03:39:25 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:39:25 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:39:39 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 03:39:39 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 24.00ms
+[W 180528 03:39:52 web:2106] 404 GET /api/house/area (127.0.0.1) 1.00ms
+[W 180528 03:39:54 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:39:54 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 03:39:54 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 03:41:37 web:2106] 200 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 03:41:37 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 2.00ms
+[I 180528 03:41:37 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[W 180528 03:41:38 web:2106] 404 GET /api/piccode?pre=&cur=87f6484b-1e22-4554-8c9e-eb820fbf9514 (127.0.0.1) 1.00ms
+[W 180528 03:42:45 web:2106] 404 GET /api/house/area (127.0.0.1) 1.00ms
+[W 180528 03:42:47 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:42:47 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:42:47 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:44:26 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[W 180528 03:44:26 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:44:26 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:44:26 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:44:27 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[W 180528 03:44:27 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:44:27 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[W 180528 03:44:27 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:48:19 web:2106] 304 GET /register.html (127.0.0.1) 244.00ms
+[W 180528 03:48:19 web:2106] 404 GET /api/piccode?pre=&cur=e8232b64-afb7-4f39-99a7-51d9df600030 (127.0.0.1) 3.00ms
+[I 180528 03:48:19 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 03:48:20 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 03:48:20 web:2106] 404 GET /api/piccode?pre=&cur=f3bfdb2d-3442-4f66-9c0f-78c044b782a4 (127.0.0.1) 1.00ms
+[I 180528 03:48:20 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 03:48:20 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[W 180528 03:48:20 web:2106] 404 GET /api/piccode?pre=&cur=bfce98b3-25fa-4e00-80ab-79c952c3cdfc (127.0.0.1) 2.00ms
+[I 180528 03:48:20 web:2106] 200 GET /favicon.ico (127.0.0.1) 5.00ms
+[I 180528 03:48:26 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 03:48:27 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:48:27 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:48:27 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 03:48:27 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 03:48:27 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:48:27 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:48:28 web:2106] 304 GET / (127.0.0.1) 4.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 03:48:28 web:2106] 304 GET / (127.0.0.1) 3.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 03:48:28 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 03:48:28 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:48:28 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:48:29 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[W 180528 03:49:07 web:2106] 404 GET /api/piccode?pre=&cur=d09724bd-5b66-41d1-a9f9-a3367b956bb7 (127.0.0.1) 2.00ms
+[I 180528 03:50:16 web:2106] 304 GET /register.html (127.0.0.1) 238.00ms
+[W 180528 03:50:16 web:2106] 404 GET /api/piccode?pre=&cur=f881464f-fe81-4993-8441-e783f12b05b3 (127.0.0.1) 3.00ms
+[I 180528 03:50:33 web:2106] 200 GET /?a (127.0.0.1) 2.00ms
+[W 180528 03:50:33 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 03:50:33 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 03:50:33 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180528 03:50:38 web:2106] 404 GET /api/piccode?pre=&cur=eb8ac07e-c293-41d1-8912-11246336134c (127.0.0.1) 3.00ms
+[W 180528 03:50:45 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[W 180528 03:50:51 web:2106] 404 GET /api/piccode?pre=&cur=8b37f25f-38dd-41a2-bd30-0edb48d47072 (127.0.0.1) 3.00ms
+[W 180528 03:52:40 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 03:52:40 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:52:44 web:2106] 404 GET /api/piccode?pre=&cur=bd999b2a-9032-4cd6-bccf-33627fa92aef (127.0.0.1) 2.00ms
+[I 180528 03:52:53 web:2106] 304 GET /register.html (127.0.0.1) 245.00ms
+[W 180528 03:52:53 web:2106] 404 GET /api/piccode?pre=&cur=a1de0bda-a8cf-4e38-bcf9-8539194d409d (127.0.0.1) 2.00ms
+[W 180528 03:56:14 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 03:56:14 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 03:56:22 web:2106] 404 GET /api/piccode?pre=&cur=a2be25f4-8239-4815-8057-d5d7eb357124 (127.0.0.1) 2.00ms
+[W 180528 03:58:36 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 03:58:36 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 03:58:37 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:58:41 web:2106] 304 GET / (127.0.0.1) 217.00ms
+[W 180528 03:58:41 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:58:41 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:58:42 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[W 180528 03:58:45 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 03:58:45 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 03:58:46 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 03:59:49 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[W 180528 04:02:52 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 04:02:52 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 04:03:03 web:2106] 404 GET /api/piccode?pre=&cur=0afd2436-8344-442e-ac60-9259b77cf404 (127.0.0.1) 1.00ms
+[W 180528 04:03:13 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180528 04:04:08 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 04:04:08 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 04:04:19 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[D 180528 04:04:25 Passport:9] error msg
+[I 180528 04:04:25 Passport:10] info msg
+[W 180528 04:04:25 Passport:11] warning msg
+[E 180528 04:04:25 Passport:12] error msg
+[I 180528 04:04:25 web:2106] 200 GET / (127.0.0.1) 1.00ms
+[D 180528 04:04:41 Passport:9] error msg
+[I 180528 04:04:41 Passport:10] info msg
+[W 180528 04:04:41 Passport:11] warning msg
+[E 180528 04:04:41 Passport:12] error msg
+[I 180528 04:04:41 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[I 180528 04:04:58 web:2106] 200 GET / (127.0.0.1) 379.00ms
+[W 180528 04:04:58 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 04:04:58 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 04:04:58 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180528 04:05:16 web:2106] 404 GET /res (127.0.0.1) 2.00ms
+[W 180528 04:05:22 web:2106] 404 GET /api/piccode?pre=&cur=e09797e7-ae7d-4aa1-9cf3-d2a26c85c392 (127.0.0.1) 2.00ms
+[I 180528 04:06:00 web:2106] 200 GET /register.html (127.0.0.1) 289.00ms
+[W 180528 04:06:00 web:2106] 404 GET /api/piccode?pre=&cur=2c51e528-2738-4f38-8988-dd8830361e30 (127.0.0.1) 4.00ms
+[I 180528 04:11:07 web:2106] 200 GET / (127.0.0.1) 325.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 7.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 19.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css (127.0.0.1) 17.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/swiper/css/swiper.min.css (127.0.0.1) 14.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/css/ihome/index.css (127.0.0.1) 11.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 6.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 4.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 16.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (127.0.0.1) 10.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/swiper/js/swiper.jquery.min.js (127.0.0.1) 15.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js (127.0.0.1) 7.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/js/template.js (127.0.0.1) 6.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/js/ihome/index.js (127.0.0.1) 4.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 6.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 10.00ms
+[I 180528 04:11:07 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 5.00ms
+[W 180528 04:11:07 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 04:11:07 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 04:11:07 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[W 180528 04:11:13 web:2106] 404 GET /regist (127.0.0.1) 2.00ms
+[W 180528 04:11:32 web:2106] 404 GET /register (127.0.0.1) 2.00ms
+[I 180528 04:11:39 web:2106] 200 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:11:40 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 4.00ms
+[I 180528 04:11:40 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[E 180528 04:11:40 VerifyCode:25] incomplete format
+[I 180528 04:11:40 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=0236a539-2620-4e83-9d41-595857bd526c (127.0.0.1) 27.00ms
+[E 180528 04:12:12 VerifyCode:25] incomplete format
+[I 180528 04:12:12 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=c3946cab-11c8-4bfd-aeed-fced7b502802 (127.0.0.1) 7.00ms
+[I 180528 04:12:24 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 24.00ms
+[I 180528 04:12:49 web:2106] 304 GET / (127.0.0.1) 3.00ms
+[W 180528 04:12:50 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 04:12:50 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 04:12:53 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[W 180528 04:12:54 web:2106] 404 GET /api/piccode?pre=&cur=0ce60507-53ac-4a92-a6d5-f3c6a774b904 (127.0.0.1) 1.00ms
+[W 180528 04:12:56 web:2106] 404 GET /api/piccode?pre=0ce60507-53ac-4a92-a6d5-f3c6a774b904&cur=86960d1a-c07c-4e87-b547-d832fb32f2cf (127.0.0.1) 2.00ms
+[W 180528 04:12:56 web:2106] 404 GET /api/piccode?pre=86960d1a-c07c-4e87-b547-d832fb32f2cf&cur=77b17db0-83b3-4a52-91dd-4e146bbce269 (127.0.0.1) 1.00ms
+[W 180528 04:12:58 web:2106] 404 GET /api/piccode?pre=77b17db0-83b3-4a52-91dd-4e146bbce269&cur=d811849e-af47-46e9-a03a-e6ca54162002 (127.0.0.1) 2.00ms
+[I 180528 04:13:02 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 04:13:02 web:2106] 404 GET /api/piccode?pre=&cur=1666e565-4c2c-4ad1-9c5d-29c4d0458e98 (127.0.0.1) 2.00ms
+[I 180528 04:13:02 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:13:13 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 04:13:14 web:2106] 404 GET /api/piccode?pre=&cur=d7c034d9-f0b6-45f3-8757-4fd2ddfb3d5d (127.0.0.1) 1.00ms
+[I 180528 04:13:14 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[W 180528 04:13:14 web:2106] 404 GET /api/piccode?pre=&cur=a88b6856-2bb0-41d5-ab81-29871f8444fe (127.0.0.1) 1.00ms
+[I 180528 04:13:15 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 04:13:15 web:2106] 404 GET /api/piccode?pre=&cur=a6b7ae84-e887-4b27-81b5-971809c1867a (127.0.0.1) 1.00ms
+[I 180528 04:13:16 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 04:13:16 web:2106] 404 GET /api/piccode?pre=&cur=bd73a280-1aad-41ea-a206-b05c0ce97e1e (127.0.0.1) 1.00ms
+[I 180528 04:13:17 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[W 180528 04:13:17 web:2106] 404 GET /api/piccode?pre=&cur=db639255-9f15-4e6c-bf25-8de7fba1823b (127.0.0.1) 1.00ms
+[W 180528 04:13:36 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 04:13:36 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 04:13:41 web:2106] 404 GET /register.html1 (127.0.0.1) 1.00ms
+[W 180528 04:13:46 web:2106] 404 GET /register1.html1 (127.0.0.1) 2.00ms
+[W 180528 04:13:49 web:2106] 404 GET /register1.html (127.0.0.1) 2.00ms
+[W 180528 04:13:53 web:2106] 404 GET /api/piccode?pre=&cur=365b0b87-cbd4-4880-90d1-031b394e7cf4 (127.0.0.1) 2.00ms
+[I 180528 04:14:17 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:14:17 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 5.00ms
+[E 180528 04:14:17 VerifyCode:25] incomplete format
+[I 180528 04:14:17 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5c8aef9d-98b8-4a29-a913-77db64f9930c (127.0.0.1) 6.00ms
+[E 180528 04:14:22 VerifyCode:15] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 04:14:22 VerifyCode:25] incomplete format
+[I 180528 04:14:22 web:2106] 200 GET /api/imagecode?pcodeid=5c8aef9d-98b8-4a29-a913-77db64f9930c&codeid=842494a9-2b0f-4f3f-a56c-d92559fe0b38 (127.0.0.1) 2012.00ms
+[E 180528 04:14:24 VerifyCode:15] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 04:14:24 VerifyCode:25] incomplete format
+[I 180528 04:14:24 web:2106] 200 GET /api/imagecode?pcodeid=842494a9-2b0f-4f3f-a56c-d92559fe0b38&codeid=867f59e7-8992-4b83-b29b-a9d9d5aaeb8a (127.0.0.1) 2010.00ms
+[E 180528 04:14:26 VerifyCode:15] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 04:14:26 VerifyCode:25] incomplete format
+[I 180528 04:14:26 web:2106] 200 GET /api/imagecode?pcodeid=867f59e7-8992-4b83-b29b-a9d9d5aaeb8a&codeid=00b4f4a6-83f5-42b8-bd79-b8a80a9b3d40 (127.0.0.1) 2020.00ms
+[E 180528 04:14:29 VerifyCode:15] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 04:14:29 VerifyCode:25] incomplete format
+[I 180528 04:14:29 web:2106] 200 GET /api/imagecode?pcodeid=00b4f4a6-83f5-42b8-bd79-b8a80a9b3d40&codeid=e93a8f50-4931-46ff-8563-2257d86c01d8 (127.0.0.1) 2010.00ms
+[I 180528 04:15:43 web:2106] 200 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 109.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 107.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 113.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 104.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 102.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 45.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 61.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 53.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 59.00ms
+[I 180528 04:15:43 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 50.00ms
+[E 180528 04:15:43 VerifyCode:25] incomplete format
+[I 180528 04:15:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=626752da-9f67-4c98-af7b-4e4023d695a1 (127.0.0.1) 7.00ms
+[I 180528 04:15:48 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:15:48 VerifyCode:25] incomplete format
+[I 180528 04:15:48 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=eb14f10d-658d-4ab3-abef-bbdf72cc0718 (127.0.0.1) 6.00ms
+[I 180528 04:16:01 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:01 VerifyCode:25] incomplete format
+[I 180528 04:16:01 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=83f5b02e-c814-4ab4-a710-acd17572892f (127.0.0.1) 8.00ms
+[I 180528 04:16:05 web:2106] 200 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 5.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 3.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 5.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 4.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 3.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 46.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 41.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 23.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 47.00ms
+[I 180528 04:16:08 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 40.00ms
+[E 180528 04:16:08 VerifyCode:25] incomplete format
+[I 180528 04:16:08 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=3e2ee7fa-a3bc-4189-8930-de8ada871bc7 (127.0.0.1) 6.00ms
+[I 180528 04:16:18 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[W 180528 04:16:19 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 04:16:19 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[E 180528 04:16:25 VerifyCode:25] incomplete format
+[I 180528 04:16:25 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=9e441dab-8c36-4578-a66d-f4ca5bf854c6 (127.0.0.1) 6.00ms
+[I 180528 04:16:47 web:2106] 200 GET /register.html (127.0.0.1) 231.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 13.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 11.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 19.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 9.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 7.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 16.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 8.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 6.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 3.00ms
+[I 180528 04:16:47 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 4.00ms
+[E 180528 04:16:48 VerifyCode:25] incomplete format
+[I 180528 04:16:48 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=55330feb-db4f-404d-a380-691279c5e65c (127.0.0.1) 18.00ms
+[I 180528 04:16:48 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:16:49 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:16:49 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 04:16:49 VerifyCode:25] incomplete format
+[I 180528 04:16:49 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=522c4f01-f75e-4223-9d29-79334226c647 (127.0.0.1) 10.00ms
+[I 180528 04:16:49 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=88e37340-f439-457d-8d81-81a3d9a02b15 (127.0.0.1) 7.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=da77a058-b7b8-4b2c-84b1-d6642fad07e6 (127.0.0.1) 8.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:16:50 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=d12ab33b-1a04-4f85-b58b-c9c79bb6386a (127.0.0.1) 7.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=60e1c3d4-e35b-4e51-ae3f-8e0da0a0ac51 (127.0.0.1) 8.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b0b54d68-552e-43d3-b7b7-11e095d71752 (127.0.0.1) 6.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:50 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:16:50 VerifyCode:25] incomplete format
+[I 180528 04:16:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=edb8d749-9a83-4611-b80b-85096950e830 (127.0.0.1) 7.00ms
+[I 180528 04:16:50 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=c66297e6-5324-41b9-a097-9db326888690 (127.0.0.1) 7.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=60685a68-e579-44f0-86da-079af9b695d9 (127.0.0.1) 6.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=831ce458-5c98-4a8b-9c71-15d72a3ee1fd (127.0.0.1) 6.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:16:51 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8fbf72b9-a958-4a11-86fa-83a40af64adb (127.0.0.1) 7.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=2ddac963-d9a4-4f21-a3b6-f76c0c145092 (127.0.0.1) 6.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:51 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:51 VerifyCode:25] incomplete format
+[I 180528 04:16:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ae522710-e906-4b1f-b807-58df34773de4 (127.0.0.1) 7.00ms
+[I 180528 04:16:51 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:52 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:16:52 VerifyCode:25] incomplete format
+[I 180528 04:16:52 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=83617f2d-68cd-498f-9d7d-7672559d5461 (127.0.0.1) 7.00ms
+[I 180528 04:16:52 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:52 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:52 VerifyCode:25] incomplete format
+[I 180528 04:16:52 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=0c7b1994-0269-4863-a389-674ff72ceadf (127.0.0.1) 6.00ms
+[I 180528 04:16:52 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:52 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:16:52 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[E 180528 04:16:52 VerifyCode:25] incomplete format
+[I 180528 04:16:52 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5693ab4f-8a9a-4921-8615-d9e7a8b6e86a (127.0.0.1) 7.00ms
+[I 180528 04:16:52 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:16:52 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:52 VerifyCode:25] incomplete format
+[I 180528 04:16:52 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ee7c31ed-8c38-4b65-b993-96a6c093e37d (127.0.0.1) 6.00ms
+[I 180528 04:16:52 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:16:52 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:16:52 VerifyCode:25] incomplete format
+[I 180528 04:16:52 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=9a53e4ca-8797-4636-a041-5f3fc793c9d7 (127.0.0.1) 6.00ms
+[I 180528 04:16:52 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:53 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:16:53 VerifyCode:25] incomplete format
+[I 180528 04:16:53 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b11fde82-d755-4f63-b19a-7e4d0d4861a5 (127.0.0.1) 6.00ms
+[I 180528 04:16:53 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:53 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:53 VerifyCode:25] incomplete format
+[I 180528 04:16:53 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=0d3daaa8-b1e4-4412-9b9e-8f92650243fe (127.0.0.1) 7.00ms
+[I 180528 04:16:53 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:53 web:2106] 304 GET /register.html (127.0.0.1) 4.00ms
+[E 180528 04:16:53 VerifyCode:25] incomplete format
+[I 180528 04:16:53 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=913acc55-50a9-40f2-bcfc-908441bd9526 (127.0.0.1) 7.00ms
+[I 180528 04:16:53 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:53 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:16:53 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[E 180528 04:16:53 VerifyCode:25] incomplete format
+[I 180528 04:16:53 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=91f49d1c-6686-4747-805c-c540ac0813f6 (127.0.0.1) 6.00ms
+[I 180528 04:16:53 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:16:53 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[E 180528 04:16:54 VerifyCode:25] incomplete format
+[I 180528 04:16:54 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=01bc5143-9ae0-40f7-aff9-23e5ecb95163 (127.0.0.1) 6.00ms
+[I 180528 04:16:54 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:21:13 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[I 180528 04:21:16 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:21:16 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[W 180528 04:21:24 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 04:21:24 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[E 180528 04:21:27 VerifyCode:25] incomplete format
+[I 180528 04:21:27 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b418397b-7ea0-423e-811f-3d63f5d14e27 (127.0.0.1) 8.00ms
+[E 180528 04:21:29 VerifyCode:25] incomplete format
+[I 180528 04:21:29 web:2106] 200 GET /api/imagecode?pcodeid=b418397b-7ea0-423e-811f-3d63f5d14e27&codeid=6ee0d361-dcfe-44ab-a574-3ec98b4aca47 (127.0.0.1) 7.00ms
+[E 180528 04:21:29 VerifyCode:25] incomplete format
+[I 180528 04:21:29 web:2106] 200 GET /api/imagecode?pcodeid=6ee0d361-dcfe-44ab-a574-3ec98b4aca47&codeid=033618ca-cc46-45d1-b327-6f528ab0c4d4 (127.0.0.1) 9.00ms
+[E 180528 04:21:29 VerifyCode:25] incomplete format
+[I 180528 04:21:29 web:2106] 200 GET /api/imagecode?pcodeid=033618ca-cc46-45d1-b327-6f528ab0c4d4&codeid=9ca9ad45-f527-4a7f-a512-2f040df32bc6 (127.0.0.1) 6.00ms
+[E 180528 04:21:30 VerifyCode:25] incomplete format
+[I 180528 04:21:30 web:2106] 200 GET /api/imagecode?pcodeid=9ca9ad45-f527-4a7f-a512-2f040df32bc6&codeid=70af4714-9439-4af9-9327-ccd1bfa8214a (127.0.0.1) 6.00ms
+[I 180528 04:22:15 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:22:15 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 04:22:16 VerifyCode:25] incomplete format
+[I 180528 04:22:16 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a6326ec8-64c3-40e0-9196-5d915fd419b7 (127.0.0.1) 6.00ms
+[I 180528 04:22:16 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:22:16 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:22:16 VerifyCode:25] incomplete format
+[I 180528 04:22:16 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=2eb5e3bf-5317-4161-b72f-a143dd3ec6cf (127.0.0.1) 9.00ms
+[I 180528 04:22:16 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:22:16 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180528 04:22:16 VerifyCode:25] incomplete format
+[I 180528 04:22:16 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a43a136c-b1e3-431c-9edd-5feb2ec539f2 (127.0.0.1) 6.00ms
+[I 180528 04:22:16 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:22:16 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:22:16 VerifyCode:25] incomplete format
+[I 180528 04:22:16 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=daf1a091-7739-463b-b77d-fc88f2520839 (127.0.0.1) 8.00ms
+[I 180528 04:22:16 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[E 180528 04:24:01 VerifyCode:25] incomplete format
+[I 180528 04:24:01 web:2106] 200 GET /api/imagecode?pcodeid=daf1a091-7739-463b-b77d-fc88f2520839&codeid=5d7ace82-831f-4bdf-b774-2375ba10ad1d (127.0.0.1) 6.00ms
+[E 180528 04:24:01 VerifyCode:25] incomplete format
+[I 180528 04:24:01 web:2106] 200 GET /api/imagecode?pcodeid=5d7ace82-831f-4bdf-b774-2375ba10ad1d&codeid=42297dce-747d-4f7c-8750-169adec9e41a (127.0.0.1) 7.00ms
+[E 180528 04:24:01 VerifyCode:25] incomplete format
+[I 180528 04:24:01 web:2106] 200 GET /api/imagecode?pcodeid=42297dce-747d-4f7c-8750-169adec9e41a&codeid=ff5539f4-334d-44d1-a27e-a7497e4b2347 (127.0.0.1) 7.00ms
+[E 180528 04:24:02 VerifyCode:25] incomplete format
+[I 180528 04:24:02 web:2106] 200 GET /api/imagecode?pcodeid=ff5539f4-334d-44d1-a27e-a7497e4b2347&codeid=77145f80-26c6-4638-8a26-7e4ffda51de8 (127.0.0.1) 7.00ms
+[E 180528 04:24:02 VerifyCode:25] incomplete format
+[I 180528 04:24:02 web:2106] 200 GET /api/imagecode?pcodeid=77145f80-26c6-4638-8a26-7e4ffda51de8&codeid=b304b420-4e8f-43dd-9499-f8a40e57bfa8 (127.0.0.1) 7.00ms
+[I 180528 04:24:03 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:24:03 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 04:24:03 VerifyCode:25] incomplete format
+[I 180528 04:24:03 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=870ae5c0-c66e-444a-822d-0fc3bcfe279a (127.0.0.1) 10.00ms
+[I 180528 04:24:03 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:24:03 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:24:03 VerifyCode:25] incomplete format
+[I 180528 04:24:03 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=f92cc709-7a62-4719-83a0-498ea786a0fc (127.0.0.1) 12.00ms
+[I 180528 04:24:03 web:2106] 200 GET /favicon.ico (127.0.0.1) 6.00ms
+[I 180528 04:24:03 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:24:03 VerifyCode:25] incomplete format
+[I 180528 04:24:03 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=d8ba1ee0-519d-4cd0-a3e4-88d3a9876f50 (127.0.0.1) 7.00ms
+[I 180528 04:24:03 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:24:04 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180528 04:24:04 VerifyCode:25] incomplete format
+[I 180528 04:24:04 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=e5f02308-a321-47d8-bb49-cfd08d99986b (127.0.0.1) 6.00ms
+[I 180528 04:24:04 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:27:27 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\VerifyCode.py modified; restarting server
+[I 180528 04:27:35 web:2106] 304 GET /register.html (127.0.0.1) 255.00ms
+[I 180528 04:27:35 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180528 04:27:35 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=1ee8b871-c7a8-42e1-84c5-bc647eda61a7 (127.0.0.1) 26.00ms
+[I 180528 04:27:35 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:27:45 web:2106] 304 GET /register.html (127.0.0.1) 4.00ms
+[I 180528 04:27:45 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=85eab74b-1681-40f1-856b-4c1ac0fac002 (127.0.0.1) 6.00ms
+[I 180528 04:27:45 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 04:27:45 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:27:45 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ff08d9d0-a36f-42fa-93de-6c40c0413b7a (127.0.0.1) 9.00ms
+[I 180528 04:27:45 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:29:31 web:2106] 304 GET /register.html (127.0.0.1) 330.00ms
+[I 180528 04:29:31 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 04:29:31 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=263c92da-0a72-4a23-b605-350efdf9ff37 (127.0.0.1) 21.00ms
+[I 180528 04:29:32 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:29:44 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:29:44 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=27e494fe-d0ce-42bd-b836-ddd9eeb76507 (127.0.0.1) 6.00ms
+[I 180528 04:29:44 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:30:55 web:2106] 200 GET /api/imagecode?pcodeid=27e494fe-d0ce-42bd-b836-ddd9eeb76507&codeid=e06bdd2c-6a72-4208-a0a0-0cb9ba7490f1 (127.0.0.1) 7.00ms
+[I 180528 04:31:32 web:2106] 200 GET /api/imagecode?pcodeid=e06bdd2c-6a72-4208-a0a0-0cb9ba7490f1&codeid=4e056048-db2d-477c-af93-cfbfae300a6f (127.0.0.1) 6.00ms
+[I 180528 04:31:42 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:31:42 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 04:31:42 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a48fc166-01dd-4776-89ef-bf3e797b5872 (127.0.0.1) 10.00ms
+[I 180528 04:31:42 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:31:42 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:31:42 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ce5e94c4-602d-4984-907f-f3911c73d296 (127.0.0.1) 9.00ms
+[I 180528 04:31:42 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:31:42 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:31:42 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=12e70d98-37ce-45af-8942-7d564874f841 (127.0.0.1) 10.00ms
+[I 180528 04:31:42 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a808f2d7-754f-40a7-8c2d-372399dd941c (127.0.0.1) 8.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=66db463c-7cae-4022-ae57-60605f1666be (127.0.0.1) 7.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=07b3d0bc-15d7-4d63-826f-112b6932ceea (127.0.0.1) 7.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=eea2be1c-1c71-4d17-a1d9-c0a6e37b9464 (127.0.0.1) 6.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 4.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=06c9b35c-3976-4e5f-9db3-c57dee4942e7 (127.0.0.1) 7.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 04:31:43 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 04:31:43 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=215bfbcd-3acc-4230-970c-06394b5dc385 (127.0.0.1) 11.00ms
+[I 180528 04:31:43 web:2106] 200 GET /favicon.ico (127.0.0.1) 5.00ms
+[I 180528 04:52:03 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 04:52:03 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 04:52:03 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 05:04:27 web:2106] 200 GET / (127.0.0.1) 6.00ms
+[W 180528 05:04:27 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 05:04:27 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 05:04:27 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 05:06:00 web:2106] 200 GET / (127.0.0.1) 252.00ms
+[W 180528 05:06:00 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 05:06:00 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 05:06:04 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 05:06:20 web:2106] 200 GET / (127.0.0.1) 4.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 6.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 11.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 9.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/plugins/swiper/css/swiper.min.css (127.0.0.1) 8.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css (127.0.0.1) 6.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 4.00ms
+[I 180528 05:06:20 web:2106] 200 GET /static/css/ihome/index.css (127.0.0.1) 4.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 39.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 35.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js (127.0.0.1) 32.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (127.0.0.1) 9.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/js/template.js (127.0.0.1) 5.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/plugins/swiper/js/swiper.jquery.min.js (127.0.0.1) 41.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/js/ihome/index.js (127.0.0.1) 6.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 4.00ms
+[I 180528 05:06:21 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 4.00ms
+[W 180528 05:06:21 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 05:06:21 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 05:06:21 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET / (127.0.0.1) 272.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 11.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/swiper/css/swiper.min.css (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css (127.0.0.1) 6.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 5.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/css/ihome/index.css (127.0.0.1) 3.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 4.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/swiper/js/swiper.jquery.min.js (127.0.0.1) 3.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (127.0.0.1) 3.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js (127.0.0.1) 1.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/js/template.js (127.0.0.1) 1.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/js/ihome/index.js (127.0.0.1) 2.00ms
+[I 180528 05:07:02 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 4.00ms
+[W 180528 05:07:02 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 05:07:02 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 05:07:02 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 05:07:04 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 05:07:04 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 05:07:04 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8e588f97-2364-418b-a554-1229d62d84f9 (127.0.0.1) 22.00ms
+[W 180528 05:07:07 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 05:07:08 web:2106] 200 GET /login.html (127.0.0.1) 3.00ms
+[I 180528 05:07:08 web:2106] 200 GET /static/css/ihome/login.css (127.0.0.1) 2.00ms
+[I 180528 05:07:08 web:2106] 200 GET /static/js/ihome/login.js (127.0.0.1) 2.00ms
+[W 180528 05:07:11 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180528 05:07:13 web:2106] 404 GET /api/house/area (127.0.0.1) 1.00ms
+[I 180528 05:07:15 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[I 180528 05:07:15 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 1.00ms
+[W 180528 05:07:15 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 05:07:15 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 05:07:15 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 05:07:54 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8ccdf434-65fa-4175-9338-36f7a42595e1 (127.0.0.1) 7.00ms
+[I 180528 05:07:55 web:2106] 200 GET /api/imagecode?pcodeid=8ccdf434-65fa-4175-9338-36f7a42595e1&codeid=eaff1f78-fb60-41fc-acda-e25636e61772 (127.0.0.1) 6.00ms
+[I 180528 05:07:55 web:2106] 200 GET /api/imagecode?pcodeid=eaff1f78-fb60-41fc-acda-e25636e61772&codeid=316b9adf-db6b-4e91-a2cc-88bf0d216314 (127.0.0.1) 6.00ms
+[I 180528 05:07:56 web:2106] 200 GET /api/imagecode?pcodeid=316b9adf-db6b-4e91-a2cc-88bf0d216314&codeid=c1e5cb89-2a66-43b0-b325-01e81e711a33 (127.0.0.1) 7.00ms
+[W 180528 05:07:57 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 05:08:00 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5749ce8e-9f64-441e-bce3-ebd8ebf18bfc (127.0.0.1) 6.00ms
+[I 180528 16:23:19 web:2106] 304 GET / (127.0.0.1) 275.00ms
+[I 180528 16:23:19 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 1.00ms
+[W 180528 16:23:22 web:2106] 404 GET /api/house/index (127.0.0.1) 7.00ms
+[W 180528 16:23:22 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[E 180528 16:23:31 VerifyCode:26] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 16:23:31 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 2036.00ms
+[E 180528 16:24:01 VerifyCode:26] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 16:24:01 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 2039.00ms
+[I 180528 16:24:01 web:2106] 200 GET /favicon.ico (127.0.0.1) 256.00ms
+[I 180528 16:25:51 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 10.00ms
+[I 180528 16:26:02 web:2106] 200 GET /api/imagecode?codeid=125&pcodeid= (127.0.0.1) 11.00ms
+[W 180528 17:16:23 web:2106] 404 GET /api/check_login (127.0.0.1) 5.00ms
+[W 180528 17:16:23 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 17:16:23 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 17:16:26 web:2106] 304 GET /register.html (127.0.0.1) 277.00ms
+[I 180528 17:16:26 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 17:16:27 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=c3ec458e-6ebf-4365-911d-8251c630cca2 (127.0.0.1) 27.00ms
+[I 180528 17:20:00 web:2106] 304 GET /register.html (127.0.0.1) 235.00ms
+[I 180528 17:20:00 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=667b8dbd-c22d-40c7-9179-7e065c097fa6 (127.0.0.1) 47.00ms
+[I 180528 17:22:11 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 17:24:12 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 17:24:31 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 17:25:57 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 17:26:05 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 17:26:29 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 17:26:47 web:2106] 200 GET /api/imagecode?pcodeid=667b8dbd-c22d-40c7-9179-7e065c097fa6&codeid=5e65f9df-0d18-4b81-ba16-eb3c7893d669 (127.0.0.1) 17.00ms
+[I 180528 17:27:10 web:2106] 200 POST /api/smscode (127.0.0.1) 0.00ms
+[E 180528 17:27:29 VerifyCode:83] '_CPP' object has no attribute 'rest'
+[I 180528 17:27:29 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 17:47:01 web:2106] 304 GET /register.html (127.0.0.1) 237.00ms
+[I 180528 17:47:01 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=097e141a-d48c-41ce-81cd-1128166c7afc (127.0.0.1) 19.00ms
+[I 180528 17:47:19 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[E 180528 17:47:27 VerifyCode:83] unbound method sendTemplateSMS() must be called with CCP instance as first argument (got str instance instead)
+[I 180528 17:47:27 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 17:48:58 web:2106] 304 GET /register.html (127.0.0.1) 267.00ms
+[I 180528 17:48:58 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=28662a1c-74bc-4624-9fc9-5fc92feda5bc (127.0.0.1) 17.00ms
+[I 180528 17:50:22 web:2106] 304 GET /register.html (127.0.0.1) 245.00ms
+[I 180528 17:50:22 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=02f4aaf3-a9f9-4130-83e3-1de1683c95a0 (127.0.0.1) 16.00ms
+[E 180528 17:50:39 VerifyCode:83] unbound method sendTemplateSMS() must be called with CCP instance as first argument (got str instance instead)
+[I 180528 17:50:39 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 17:53:48 web:2106] 304 GET /register.html (127.0.0.1) 255.00ms
+[I 180528 17:53:48 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5f812210-b77c-4e44-839b-13f801362145 (127.0.0.1) 17.00ms
+[I 180528 17:54:24 web:2106] 200 GET /api/imagecode?pcodeid=5f812210-b77c-4e44-839b-13f801362145&codeid=f545d227-d68b-40d3-95cd-6ccf9b2a18b3 (127.0.0.1) 6.00ms
+[I 180528 17:55:35 web:2106] 200 POST /api/smscode (127.0.0.1) 4.00ms
+[I 180528 17:55:50 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 17:55:50 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a6dcf553-053c-44bd-b6d9-f31719bce311 (127.0.0.1) 5.00ms
+[I 180528 17:56:06 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 17:56:06 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=663949ab-de9b-45bf-aab7-422660ba9416 (127.0.0.1) 5.00ms
+[I 180528 17:56:26 web:2106] 200 POST /api/smscode (127.0.0.1) 3330.00ms
+[I 180528 17:59:39 web:2106] 304 GET /register.html (127.0.0.1) 251.00ms
+[I 180528 17:59:39 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=302a041a-a4e9-49ad-aa05-b565e4667e72 (127.0.0.1) 21.00ms
+[I 180528 17:59:52 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[E 180528 17:59:58 VerifyCode:83] 'CCP' object has no attribute 'rest'
+[I 180528 17:59:58 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 18:03:16 web:2106] 304 GET /register.html (127.0.0.1) 399.00ms
+[I 180528 18:03:16 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ed0d39ef-56dd-4ebd-82b9-2ff40a0618a4 (127.0.0.1) 16.00ms
+[I 180528 18:03:28 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[E 180528 18:03:34 VerifyCode:83] 'CCP' object has no attribute 'rest'
+[I 180528 18:03:34 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 18:25:17 web:2106] 304 GET /register.html (127.0.0.1) 320.00ms
+[I 180528 18:25:17 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b5a3b268-7871-46f4-b440-518bbb65efe0 (127.0.0.1) 25.00ms
+[I 180528 18:25:47 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[I 180528 19:03:29 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py modified; restarting server
+[I 180528 19:05:57 web:2106] 304 GET /register.html (127.0.0.1) 244.00ms
+[I 180528 19:05:57 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 19:05:57 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=4803bb33-5794-4777-b26a-ce30006d919f (127.0.0.1) 21.00ms
+[I 180528 19:05:59 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 19:05:59 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=49c37ab3-a52d-472c-aeda-31d2368f4905 (127.0.0.1) 7.00ms
+[I 180528 19:06:10 web:2106] 200 POST /api/smscode (127.0.0.1) 0.00ms
+[I 180528 19:15:18 web:2106] 304 GET /register.html (127.0.0.1) 438.00ms
+[I 180528 19:15:18 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=638869a9-4e23-4bda-a089-f15a726c739b (127.0.0.1) 57.00ms
+[I 180528 19:15:30 web:2106] 200 POST /api/smscode (127.0.0.1) 0.00ms
+[I 180528 19:21:55 web:2106] 304 GET /register.html (127.0.0.1) 378.00ms
+[I 180528 19:21:55 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=862dfdf6-66d0-494b-8d07-2d1f4c7171ea (127.0.0.1) 20.00ms
+[I 180528 19:22:08 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 19:22:48 web:2106] 304 GET /register.html (127.0.0.1) 355.00ms
+[I 180528 19:22:48 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=0374452c-a96f-4402-8d98-f068ffe0a5db (127.0.0.1) 19.00ms
+[I 180528 19:22:59 web:2106] 200 GET /register.html (127.0.0.1) 15.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 29.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 21.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 20.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 18.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 15.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 44.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 13.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 20.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 36.00ms
+[I 180528 19:22:59 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 16.00ms
+[I 180528 19:22:59 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=6b77e9a8-d516-4a6e-a908-4278a99b9129 (127.0.0.1) 7.00ms
+[I 180528 19:23:23 web:2106] 200 POST /api/smscode (127.0.0.1) 2087.00ms
+[I 180528 19:24:10 web:2106] 200 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 8.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 8.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 7.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 6.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 3.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 7.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 11.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 4.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 3.00ms
+[I 180528 19:24:10 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 7.00ms
+[I 180528 19:24:10 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=fe15e893-17e4-431b-b73e-4baebfe4a317 (127.0.0.1) 7.00ms
+[I 180528 19:24:30 web:2106] 200 GET /api/imagecode?pcodeid=fe15e893-17e4-431b-b73e-4baebfe4a317&codeid=f6b34f1c-0541-4553-9d8f-993c153502c3 (127.0.0.1) 7.00ms
+[I 180528 19:24:46 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 19:24:48 web:2106] 200 GET /api/imagecode?pcodeid=f6b34f1c-0541-4553-9d8f-993c153502c3&codeid=83e38e46-f2f1-49a0-8fbe-f715c1db4474 (127.0.0.1) 12.00ms
+[I 180528 19:25:05 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[I 180528 19:26:58 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[I 180528 19:28:58 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\VerifyCode.py modified; restarting server
+[I 180528 20:40:55 web:2106] 304 GET /register.html (127.0.0.1) 251.00ms
+[I 180528 20:40:55 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 20:40:55 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b971a5e0-646a-4f51-adc5-06d915cdbe65 (127.0.0.1) 40.00ms
+[I 180528 20:41:14 web:2106] 200 POST /api/smscode (127.0.0.1) 68.00ms
+[I 180528 20:42:12 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 20:42:12 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[E 180528 20:42:12 web:1621] Uncaught exception GET /api/imagecode?pcodeid=&codeid=bdc9c6ba-3a43-4511-b083-fe260a57d0d4 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/imagecode?pcodeid=&codeid=bdc9c6ba-3a43-4511-b083-fe260a57d0d4', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1520, in _execute
+        result = self.prepare()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 20, in prepare
+        self.xsrf_token
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1264, in xsrf_token
+        expires_days = 30 if self.current_user else None
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1184, in current_user
+        self._current_user = self.get_current_user()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 37, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 20:42:12 web:2106] 500 GET /api/imagecode?pcodeid=&codeid=bdc9c6ba-3a43-4511-b083-fe260a57d0d4 (127.0.0.1) 3.00ms
+[I 180528 20:42:29 web:2106] 304 GET /register.html (127.0.0.1) 256.00ms
+[I 180528 20:42:29 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[E 180528 20:42:29 web:1621] Uncaught exception GET /api/imagecode?pcodeid=&codeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/imagecode?pcodeid=&codeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1520, in _execute
+        result = self.prepare()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 20, in prepare
+        self.xsrf_token
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1264, in xsrf_token
+        expires_days = 30 if self.current_user else None
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1184, in current_user
+        self._current_user = self.get_current_user()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 37, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 20:42:29 web:2106] 500 GET /api/imagecode?pcodeid=&codeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d (127.0.0.1) 2.00ms
+[E 180528 20:42:45 web:1621] Uncaught exception GET /api/imagecode?pcodeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d&codeid=3cae4a61-74a0-434f-bf9d-e3ebc8675138 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/imagecode?pcodeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d&codeid=3cae4a61-74a0-434f-bf9d-e3ebc8675138', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1520, in _execute
+        result = self.prepare()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 20, in prepare
+        self.xsrf_token
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1264, in xsrf_token
+        expires_days = 30 if self.current_user else None
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1184, in current_user
+        self._current_user = self.get_current_user()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 37, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 20:42:45 web:2106] 500 GET /api/imagecode?pcodeid=db5cc1ae-1028-4077-9a1f-fb1a288d329d&codeid=3cae4a61-74a0-434f-bf9d-e3ebc8675138 (127.0.0.1) 1.00ms
+[I 180528 20:43:00 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[I 180528 20:43:00 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 1.00ms
+[W 180528 20:43:01 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 20:43:01 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 20:43:01 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 20:43:05 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 20:43:05 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[E 180528 20:43:05 web:1621] Uncaught exception GET /api/imagecode?pcodeid=&codeid=fb9cb730-f8d6-45ac-a493-e3ba29e19c56 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/imagecode?pcodeid=&codeid=fb9cb730-f8d6-45ac-a493-e3ba29e19c56', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1520, in _execute
+        result = self.prepare()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 20, in prepare
+        self.xsrf_token
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1264, in xsrf_token
+        expires_days = 30 if self.current_user else None
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1184, in current_user
+        self._current_user = self.get_current_user()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 37, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 20:43:05 web:2106] 500 GET /api/imagecode?pcodeid=&codeid=fb9cb730-f8d6-45ac-a493-e3ba29e19c56 (127.0.0.1) 2.00ms
+[I 180528 20:43:12 web:2106] 200 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 12.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 17.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 8.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 7.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 4.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 31.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 17.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 14.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 36.00ms
+[I 180528 20:43:12 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 8.00ms
+[E 180528 20:43:12 web:1621] Uncaught exception GET /api/imagecode?pcodeid=&codeid=35cef06a-d9e3-43ec-b223-8741ce7cc1a9 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/imagecode?pcodeid=&codeid=35cef06a-d9e3-43ec-b223-8741ce7cc1a9', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1520, in _execute
+        result = self.prepare()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 20, in prepare
+        self.xsrf_token
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1264, in xsrf_token
+        expires_days = 30 if self.current_user else None
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1184, in current_user
+        self._current_user = self.get_current_user()
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 37, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 20:43:12 web:2106] 500 GET /api/imagecode?pcodeid=&codeid=35cef06a-d9e3-43ec-b223-8741ce7cc1a9 (127.0.0.1) 1.00ms
+[I 180528 20:47:41 web:2106] 304 GET /register.html (127.0.0.1) 344.00ms
+[I 180528 20:47:41 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 4.00ms
+[I 180528 20:47:41 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=04d83b3e-5a1d-4371-bf6b-1126b0efd9a1 (127.0.0.1) 18.00ms
+[W 180528 20:48:04 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 20:48:04 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 20:48:04 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 20:48:09 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=106587ea-33c0-4f34-a924-6027faea35e2 (127.0.0.1) 8.00ms
+[W 180528 20:48:53 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 20:48:53 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 20:48:53 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 20:55:09 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py modified; restarting server
+[I 180528 20:57:20 web:2106] 304 GET / (127.0.0.1) 231.00ms
+[W 180528 20:57:20 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 20:57:20 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 20:57:20 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 4.00ms
+[I 180528 21:06:11 web:2106] 304 GET / (127.0.0.1) 240.00ms
+[W 180528 21:06:11 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 21:06:11 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 21:06:11 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 22:09:45 web:2106] 304 GET /register.html (127.0.0.1) 338.00ms
+[I 180528 22:09:45 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180528 22:09:45 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=e4b91f44-0233-40ed-bfff-6b600328b5d8 (127.0.0.1) 20.00ms
+[I 180528 22:09:45 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 22:09:45 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=6bf2e1fb-1392-4fa7-924f-6a2de1070ea3 (127.0.0.1) 49.00ms
+[I 180528 22:10:53 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py modified; restarting server
+[I 180528 22:37:25 web:2106] 304 GET /register.html (127.0.0.1) 254.00ms
+[I 180528 22:37:25 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 22:37:25 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5a12767d-165a-45e9-9d68-0c8c993f7cdb (127.0.0.1) 21.00ms
+[I 180528 22:37:26 web:2106] 304 GET /login.html (127.0.0.1) 3.00ms
+[W 180528 22:37:39 web:2106] 405 POST /api/login (127.0.0.1) 2.00ms
+[I 180528 22:48:53 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[I 180528 22:49:16 web:2106] 304 GET /login.html (127.0.0.1) 471.00ms
+[I 180528 22:49:18 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 22:49:19 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=d611b46b-f4e8-4c87-ae9f-5afb1ee8f731 (127.0.0.1) 22.00ms
+[I 180528 22:49:30 web:2106] 200 GET /api/imagecode?pcodeid=d611b46b-f4e8-4c87-ae9f-5afb1ee8f731&codeid=f7203d71-e8e0-4bbd-9543-0e4076141438 (127.0.0.1) 8.00ms
+[I 180528 22:49:32 web:2106] 200 GET /api/imagecode?pcodeid=f7203d71-e8e0-4bbd-9543-0e4076141438&codeid=af12823e-f49c-41dc-8b37-7b3f4163be82 (127.0.0.1) 6.00ms
+[I 180528 22:49:41 web:2106] 200 POST /api/smscode (127.0.0.1) 56.00ms
+[W 180528 22:49:58 web:2106] 405 POST /api/register (127.0.0.1) 2.00ms
+[I 180528 22:53:17 web:2106] 304 GET /register.html (127.0.0.1) 226.00ms
+[I 180528 22:53:17 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=47834a9b-7af1-4a5d-b1eb-0d7c665e362e (127.0.0.1) 17.00ms
+[I 180528 22:53:26 web:2106] 200 GET /api/imagecode?pcodeid=47834a9b-7af1-4a5d-b1eb-0d7c665e362e&codeid=0978f273-0d72-49cc-bd93-0d3ff181d848 (127.0.0.1) 8.00ms
+[I 180528 22:53:33 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[W 180528 22:53:51 web:2106] 405 POST /api/register (127.0.0.1) 2.00ms
+[W 180528 22:54:05 web:2106] 405 POST /api/register (127.0.0.1) 1.00ms
+[W 180528 22:54:18 web:2106] 405 POST /api/register (127.0.0.1) 1.00ms
+[W 180528 22:56:18 web:2106] 405 POST /api/register (127.0.0.1) 1.00ms
+[I 180528 22:58:23 web:2106] 304 GET /register.html (127.0.0.1) 246.00ms
+[I 180528 22:59:05 web:2106] 304 GET /register.html (127.0.0.1) 244.00ms
+[I 180528 22:59:50 web:2106] 200 GET / (127.0.0.1) 315.00ms
+[I 180528 22:59:50 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 3.00ms
+[W 180528 22:59:51 web:2106] 404 GET /api/check_login (127.0.0.1) 5.00ms
+[W 180528 22:59:51 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 22:59:54 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[W 180528 22:59:54 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 22:59:54 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 23:01:01 web:2106] 200 GET /register.html (127.0.0.1) 231.00ms
+[W 180528 23:02:08 web:2106] 404 GET /login (127.0.0.1) 2.00ms
+[W 180528 23:04:49 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 23:04:49 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 23:04:49 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 7.00ms
+[I 180528 23:04:55 web:2106] 200 GET /register.html (127.0.0.1) 322.00ms
+[I 180528 23:04:55 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 4.00ms
+[W 180528 23:06:39 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 23:06:39 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 23:06:39 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180528 23:06:51 web:2106] 304 GET / (127.0.0.1) 218.00ms
+[W 180528 23:06:51 web:2106] 404 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180528 23:06:51 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180528 23:06:51 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 23:06:57 web:2106] 200 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 23:06:57 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 23:07:37 web:2106] 304 GET /register.html (127.0.0.1) 379.00ms
+[I 180528 23:07:37 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180528 23:09:05 web:2106] 304 GET / (127.0.0.1) 281.00ms
+[I 180528 23:09:05 web:2106] 200 GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (127.0.0.1) 2.00ms
+[I 180528 23:09:05 web:2106] 200 GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js (127.0.0.1) 16.00ms
+[I 180528 23:09:05 web:2106] 200 GET /static/js/template.js (127.0.0.1) 9.00ms
+[I 180528 23:09:05 web:2106] 200 GET /static/js/ihome/index.js (127.0.0.1) 7.00ms
+[W 180528 23:09:05 web:2106] 404 GET /api/check_login (127.0.0.1) 5.00ms
+[W 180528 23:09:05 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 23:09:09 web:2106] 200 GET /search.html?aid=&aname=&sd=&ed= (127.0.0.1) 3.00ms
+[I 180528 23:09:09 web:2106] 200 GET /static/css/ihome/search.css (127.0.0.1) 5.00ms
+[I 180528 23:09:09 web:2106] 200 GET /static/js/ihome/search.js (127.0.0.1) 3.00ms
+[W 180528 23:09:09 web:2106] 404 GET /api/house/area (127.0.0.1) 2.00ms
+[I 180528 23:09:14 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 23:09:14 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180528 23:10:22 web:2106] 304 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 265.00ms
+[I 180528 23:10:22 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 23:10:22 web:2106] 304 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 12.00ms
+[I 180528 23:10:22 web:2106] 304 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 7.00ms
+[W 180528 23:11:20 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 23:11:20 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180528 23:11:20 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180528 23:11:23 web:2106] 200 GET /register.html (127.0.0.1) 287.00ms
+[I 180528 23:11:23 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[W 180528 23:12:41 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[W 180528 23:12:41 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 23:12:41 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 4.00ms
+[I 180528 23:12:42 web:2106] 304 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 234.00ms
+[I 180528 23:12:50 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180528 23:17:17 web:2106] 304 GET /static/plugins/bootstrap/css/bootstrap.min.css.map (127.0.0.1) 360.00ms
+[W 180528 23:17:24 web:2106] 404 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180528 23:17:24 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 23:17:27 web:2106] 200 GET /register.html (127.0.0.1) 2.00ms
+[I 180528 23:17:27 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[W 180528 23:28:16 web:2106] 404 GET /api/check_login (127.0.0.1) 5.00ms
+[W 180528 23:28:16 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 23:28:18 web:2106] 200 GET /register.html (127.0.0.1) 308.00ms
+[I 180528 23:28:18 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[W 180528 23:32:25 web:2106] 404 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 23:32:25 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 23:32:42 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 254.00ms
+[E 180528 23:32:44 VerifyCode:34] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 23:32:44 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=7f603e07-c3ed-4706-a93c-6dadf1d09de8 (127.0.0.1) 2023.00ms
+[E 180528 23:33:05 VerifyCode:24] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 23:33:07 VerifyCode:34] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 23:33:07 web:2106] 200 GET /api/imagecode?pcodeid=7f603e07-c3ed-4706-a93c-6dadf1d09de8&codeid=a6f9f12c-3783-4c7f-89cd-6a77ebec8d0e (127.0.0.1) 4030.00ms
+[E 180528 23:33:09 VerifyCode:24] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 23:33:11 VerifyCode:34] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 23:33:11 web:2106] 200 GET /api/imagecode?pcodeid=dac4b5d6-cb00-40d9-b14b-a5803a113b6b&codeid=33e02a26-7e98-49b3-9c84-5b7b441ea71e (127.0.0.1) 4024.00ms
+[E 180528 23:33:13 VerifyCode:24] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180528 23:33:15 VerifyCode:34] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180528 23:33:15 web:2106] 200 GET /api/imagecode?pcodeid=a6f9f12c-3783-4c7f-89cd-6a77ebec8d0e&codeid=dac4b5d6-cb00-40d9-b14b-a5803a113b6b (127.0.0.1) 4028.00ms
+[I 180528 23:33:56 web:2106] 200 GET /api/imagecode?pcodeid=33e02a26-7e98-49b3-9c84-5b7b441ea71e&codeid=8272974a-31bb-4455-931b-b8eedd0be0bb (127.0.0.1) 9.00ms
+[I 180528 23:33:58 web:2106] 200 GET /api/imagecode?pcodeid=8272974a-31bb-4455-931b-b8eedd0be0bb&codeid=d781bea7-a8a4-48a0-8abb-c72906f4e435 (127.0.0.1) 6.00ms
+[I 180528 23:34:16 web:2106] 200 GET /api/imagecode?pcodeid=d781bea7-a8a4-48a0-8abb-c72906f4e435&codeid=c4065c6a-2e7a-4b0d-8113-5cbe640d3391 (127.0.0.1) 7.00ms
+[I 180528 23:38:12 web:2106] 200 GET /api/imagecode?pcodeid=c4065c6a-2e7a-4b0d-8113-5cbe640d3391&codeid=bf5a9106-06d8-4df6-b87e-1ea3e9e27efa (127.0.0.1) 6.00ms
+[I 180528 23:39:40 autoreload:196] C:/Users/Hasee/Desktop/tornado/TornadoProject/server.py modified; restarting server
+[I 180528 23:40:00 web:2106] 304 GET /register.html (127.0.0.1) 236.00ms
+[I 180528 23:40:00 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180528 23:40:00 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=331ad9e7-5814-4536-a412-ad79f7891d95 (127.0.0.1) 23.00ms
+[I 180528 23:40:00 web:2106] 200 GET /favicon.ico (127.0.0.1) 4.00ms
+[I 180528 23:42:20 web:2106] 304 GET /register.html (127.0.0.1) 259.00ms
+[I 180528 23:42:20 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 8.00ms
+[I 180528 23:42:20 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=04e2b9bd-32de-4998-93ca-5ae1ee54368f (127.0.0.1) 27.00ms
+[I 180528 23:42:20 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 23:43:03 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py modified; restarting server
+[I 180528 23:43:21 web:2106] 304 GET /register.html (127.0.0.1) 234.00ms
+[I 180528 23:43:21 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=facda29a-e83c-460d-b244-6f12d82b28be (127.0.0.1) 19.00ms
+[I 180528 23:43:21 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[W 180528 23:43:39 web:2106] 404 GET /api/check_login (127.0.0.1) 4.00ms
+[W 180528 23:43:39 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180528 23:43:51 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=cdf97eb4-5c14-4c14-8b4e-3f6754fea8c9 (127.0.0.1) 21.00ms
+[I 180528 23:43:53 web:2106] 304 GET /register.html (127.0.0.1) 254.00ms
+[I 180528 23:43:53 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=c346d94e-8128-47a0-8235-0f6b2b997087 (127.0.0.1) 7.00ms
+[I 180528 23:43:53 web:2106] 200 GET /favicon.ico (127.0.0.1) 14.00ms
+[I 180528 23:43:54 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[I 180528 23:43:54 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=26091f04-4960-495e-b6f7-b1a64973eb15 (127.0.0.1) 6.00ms
+[I 180528 23:43:54 web:2106] 200 GET /favicon.ico (127.0.0.1) 3.00ms
+[I 180528 23:44:10 web:2106] 304 GET /register.html (127.0.0.1) 222.00ms
+[I 180528 23:44:10 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=cae5d8e8-0446-4545-ae7d-df717772cfbe (127.0.0.1) 22.00ms
+[I 180528 23:44:32 web:2106] 304 GET /register.html (127.0.0.1) 3.00ms
+[I 180528 23:44:32 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=f651cb25-df6f-4a0d-8d9d-31af91108855 (127.0.0.1) 10.00ms
+[I 180528 23:44:32 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 23:45:07 web:2106] 304 GET /register.html (127.0.0.1) 243.00ms
+[I 180528 23:45:07 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180528 23:45:07 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8b58d114-ac9d-42e5-ab84-30de844ea2ff (127.0.0.1) 22.00ms
+[I 180528 23:45:07 web:2106] 200 GET /favicon.ico (127.0.0.1) 1.00ms
+[I 180528 23:45:44 web:2106] 304 GET /register.html (127.0.0.1) 256.00ms
+[I 180528 23:45:44 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8682deab-0b77-4db0-b63c-ab5f26756811 (127.0.0.1) 18.00ms
+[I 180528 23:45:44 web:2106] 200 GET /favicon.ico (127.0.0.1) 2.00ms
+[I 180528 23:46:18 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 23:46:18 web:2106] 200 GET /api/imagecode?pcodeid=8682deab-0b77-4db0-b63c-ab5f26756811&codeid=88c32392-c209-41dd-8491-cc66fe8377a8 (127.0.0.1) 6.00ms
+[I 180528 23:46:24 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:24 web:2106] 200 GET /api/imagecode?pcodeid=88c32392-c209-41dd-8491-cc66fe8377a8&codeid=6416721e-2e40-4a69-9989-70900258a210 (127.0.0.1) 7.00ms
+[I 180528 23:46:25 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:25 web:2106] 200 GET /api/imagecode?pcodeid=6416721e-2e40-4a69-9989-70900258a210&codeid=6d65aba7-3ac1-4147-94d0-ab3dcf842daf (127.0.0.1) 6.00ms
+[I 180528 23:46:26 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:26 web:2106] 200 GET /api/imagecode?pcodeid=6d65aba7-3ac1-4147-94d0-ab3dcf842daf&codeid=49c836ba-87d0-4bc8-97c8-638829a8778c (127.0.0.1) 6.00ms
+[I 180528 23:46:26 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:26 web:2106] 200 GET /api/imagecode?pcodeid=49c836ba-87d0-4bc8-97c8-638829a8778c&codeid=4abfb0b6-b025-424a-a82e-3d7e4007e12f (127.0.0.1) 5.00ms
+[I 180528 23:46:27 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:27 web:2106] 200 GET /api/imagecode?pcodeid=4abfb0b6-b025-424a-a82e-3d7e4007e12f&codeid=66f5acd5-2af9-4a1f-a8f2-64052666ecb5 (127.0.0.1) 8.00ms
+[I 180528 23:46:27 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:27 web:2106] 200 GET /api/imagecode?pcodeid=66f5acd5-2af9-4a1f-a8f2-64052666ecb5&codeid=307ac1ef-e609-41ae-84a7-ceafac06d0ac (127.0.0.1) 5.00ms
+[I 180528 23:46:27 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:27 web:2106] 200 GET /api/imagecode?pcodeid=307ac1ef-e609-41ae-84a7-ceafac06d0ac&codeid=dc5278ff-cdcc-4334-95ec-539cc2d9d1e7 (127.0.0.1) 7.00ms
+[I 180528 23:46:27 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:27 web:2106] 200 GET /api/imagecode?pcodeid=dc5278ff-cdcc-4334-95ec-539cc2d9d1e7&codeid=579ec397-bc28-4e32-ab2d-2a2b99deffa0 (127.0.0.1) 5.00ms
+[I 180528 23:46:27 web:2106] 200 POST /api/smscode (127.0.0.1) 1.00ms
+[I 180528 23:46:27 web:2106] 200 GET /api/imagecode?pcodeid=579ec397-bc28-4e32-ab2d-2a2b99deffa0&codeid=c1677ab1-81df-4d30-84d2-bf7a128c7394 (127.0.0.1) 5.00ms
+[I 180528 23:46:29 web:2106] 200 GET /api/imagecode?pcodeid=c1677ab1-81df-4d30-84d2-bf7a128c7394&codeid=2d6c0b59-d121-4632-9c5c-4c0c27a966f9 (127.0.0.1) 9.00ms
+[I 180528 23:46:41 web:2106] 200 POST /api/smscode (127.0.0.1) 3695.00ms
+[W 180528 23:47:04 web:2106] 405 POST /api/register (127.0.0.1) 2.00ms
+[I 180528 23:48:27 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\urls.py modified; restarting server
+[I 180528 23:49:32 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 23:49:32 web:2106] 200 GET /api/imagecode?pcodeid=2d6c0b59-d121-4632-9c5c-4c0c27a966f9&codeid=8cd526dd-431d-4de1-8e9f-26b33545a420 (127.0.0.1) 17.00ms
+[I 180528 23:49:44 web:2106] 200 POST /api/smscode (127.0.0.1) 39.00ms
+[E 180528 23:49:55 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180528 23:49:55 web:2106] 200 POST /api/register (127.0.0.1) 6.00ms
+[I 180528 23:50:32 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180528 23:50:36 web:2106] 200 GET /api/imagecode?pcodeid=8cd526dd-431d-4de1-8e9f-26b33545a420&codeid=0dd3b047-23e7-41c9-83a3-e374966fe401 (127.0.0.1) 6.00ms
+[I 180528 23:50:45 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[E 180528 23:51:03 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180528 23:51:03 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180528 23:54:14 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 164, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 39, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 23:54:14 web:2106] 500 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 23:54:14 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 23:54:21 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[I 180528 23:54:40 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180528 23:54:40 web:2106] 200 GET /api/imagecode?pcodeid=0dd3b047-23e7-41c9-83a3-e374966fe401&codeid=8e5bea5f-a376-44ee-beb1-af4861cb5b08 (127.0.0.1) 17.00ms
+[I 180528 23:54:51 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[I 180528 23:55:28 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180528 23:55:36 web:2106] 200 GET /api/imagecode?pcodeid=8e5bea5f-a376-44ee-beb1-af4861cb5b08&codeid=145106fb-e5f3-4edd-928d-9de7d965182b (127.0.0.1) 7.00ms
+[I 180528 23:55:44 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[E 180528 23:56:08 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180528 23:56:08 web:2106] 200 POST /api/register (127.0.0.1) 4.00ms
+[E 180528 23:56:24 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 164, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 39, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180528 23:56:24 web:2106] 500 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180528 23:56:24 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180528 23:56:26 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 299.00ms
+[I 180528 23:56:26 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=8d2147c3-599f-4e20-8754-0c087a2f7c7d (127.0.0.1) 24.00ms
+[I 180528 23:56:35 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[E 180528 23:56:56 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180528 23:56:56 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[I 180528 23:57:21 web:2106] 200 POST /api/register (127.0.0.1) 7.00ms
+[I 180529 00:00:11 web:2106] 304 GET /register.html (127.0.0.1) 244.00ms
+[I 180529 00:00:12 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 4.00ms
+[I 180529 00:00:12 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=f442b28c-1b77-4422-a009-d115dda20091 (127.0.0.1) 20.00ms
+[I 180529 00:00:24 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[E 180529 00:00:50 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:00:50 web:2106] 200 POST /api/register (127.0.0.1) 3.00ms
+[I 180529 00:05:31 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 00:06:20 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[I 180529 00:06:34 web:2106] 200 GET /api/imagecode?pcodeid=f442b28c-1b77-4422-a009-d115dda20091&codeid=5596153a-e34f-4e68-9d99-3016902fd0ef (127.0.0.1) 7.00ms
+[I 180529 00:06:42 web:2106] 200 POST /api/smscode (127.0.0.1) 2052.00ms
+[I 180529 00:07:59 web:2106] 304 GET /register.html (127.0.0.1) 1.00ms
+[E 180529 00:07:59 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:07:59 web:2106] 200 POST /api/register (127.0.0.1) 5.00ms
+[I 180529 00:07:59 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180529 00:08:00 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=f6e213df-6d28-4746-9e59-4c85c307d081 (127.0.0.1) 90.00ms
+[I 180529 00:08:23 web:2106] 200 GET /api/imagecode?pcodeid=f6e213df-6d28-4746-9e59-4c85c307d081&codeid=4b53e7e5-f962-4e03-9c22-afcc18264e12 (127.0.0.1) 6.00ms
+[I 180529 00:08:25 web:2106] 200 GET /api/imagecode?pcodeid=4b53e7e5-f962-4e03-9c22-afcc18264e12&codeid=f2c99c88-3663-4aba-a5e5-67d205fdadbe (127.0.0.1) 7.00ms
+[I 180529 00:08:34 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[I 180529 00:09:02 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[E 180529 00:09:02 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:09:02 web:2106] 200 POST /api/register (127.0.0.1) 3.00ms
+[I 180529 00:09:02 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180529 00:09:21 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180529 00:09:21 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b26a5046-54a0-478f-846f-817e2c88bd8e (127.0.0.1) 9.00ms
+[E 180529 00:09:36 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 164, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 39, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180529 00:09:36 web:2106] 500 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180529 00:09:36 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[I 180529 00:09:37 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=159864c2-2e00-4337-8d59-d8556d6e82e0 (127.0.0.1) 7.00ms
+[I 180529 00:09:55 web:2106] 304 GET /register.html (127.0.0.1) 4.00ms
+[I 180529 00:10:01 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=15f0236f-3a06-4503-9d6e-9909cf0f45df (127.0.0.1) 8.00ms
+[I 180529 00:10:44 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[E 180529 00:11:19 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:11:19 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[I 180529 00:12:42 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 00:13:37 web:2106] 200 POST /api/smscode (127.0.0.1) 2.00ms
+[I 180529 00:13:37 web:2106] 200 GET /api/imagecode?pcodeid=15f0236f-3a06-4503-9d6e-9909cf0f45df&codeid=972adf38-16c1-43e5-ab71-b3c38409185a (127.0.0.1) 6.00ms
+[I 180529 00:13:40 web:2106] 200 GET /api/imagecode?pcodeid=972adf38-16c1-43e5-ab71-b3c38409185a&codeid=7344a944-d1dc-48fd-883d-f5279a678ba5 (127.0.0.1) 7.00ms
+[I 180529 00:13:45 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[E 180529 00:14:18 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:14:18 web:2106] 200 POST /api/register (127.0.0.1) 3.00ms
+[I 180529 00:16:04 web:2106] 304 GET /register.html (127.0.0.1) 333.00ms
+[I 180529 00:16:04 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 14.00ms
+[I 180529 00:16:04 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=52a48678-62aa-44d3-b77f-9b8389982e52 (127.0.0.1) 20.00ms
+[I 180529 00:16:23 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[I 180529 00:19:17 web:2106] 304 GET /register.html (127.0.0.1) 488.00ms
+[E 180529 00:19:17 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:19:17 web:2106] 200 POST /api/register (127.0.0.1) 5.00ms
+[E 180529 00:19:17 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 164, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 39, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180529 00:19:17 web:2106] 500 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180529 00:19:17 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 00:19:17 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 00:19:18 web:2106] 200 GET /register.html (127.0.0.1) 2.00ms
+[I 180529 00:19:18 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180529 00:19:18 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=b7630e88-e474-47fa-986b-43092c3d2a6d (127.0.0.1) 43.00ms
+[I 180529 00:19:25 web:2106] 200 GET /api/imagecode?pcodeid=b7630e88-e474-47fa-986b-43092c3d2a6d&codeid=93b123e1-e5e6-4da7-ad1f-7b4521c9ff80 (127.0.0.1) 6.00ms
+[I 180529 00:19:31 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[E 180529 00:19:45 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:19:45 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180529 00:20:16 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:20:16 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[E 180529 00:20:20 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:20:20 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180529 00:20:21 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:20:21 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 00:20:41 web:2106] 304 GET /register.html (127.0.0.1) 348.00ms
+[I 180529 00:20:41 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 4.00ms
+[I 180529 00:20:41 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=c7024d76-0f9b-4bf0-a51d-54f86b67a453 (127.0.0.1) 45.00ms
+[I 180529 00:20:51 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[E 180529 00:21:00 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:21:00 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 00:21:26 web:2106] 304 GET /register.html (127.0.0.1) 251.00ms
+[I 180529 00:21:26 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180529 00:21:26 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=9e4a947b-abc5-4202-bbd6-25a0405395c9 (127.0.0.1) 20.00ms
+[I 180529 00:21:36 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[E 180529 00:21:46 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:21:46 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180529 00:21:58 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:21:58 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180529 00:22:10 Passport:98] (1146, "Table 'ihome.ih_user_profile' doesn't exist")
+[I 180529 00:22:10 web:2106] 200 POST /api/register (127.0.0.1) 2.00ms
+[E 180529 00:42:31 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 165, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 39, in get_current_user
+        self.session = Session(self)
+    TypeError: object() takes no parameters
+[E 180529 00:42:31 web:2106] 500 GET /api/check_login (127.0.0.1) 3.00ms
+[W 180529 00:42:31 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[I 180529 00:42:34 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 448.00ms
+[I 180529 00:42:34 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=a1b73652-ba7a-4954-ac28-fe361b613ea9 (127.0.0.1) 24.00ms
+[I 180529 00:42:46 web:2106] 200 POST /api/smscode (127.0.0.1) 36.00ms
+[E 180529 00:42:59 web:1621] Uncaught exception POST /api/register (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='POST', uri='/api/register', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 103, in post
+        session = Session(self)
+    TypeError: object() takes no parameters
+[E 180529 00:42:59 web:2106] 500 POST /api/register (127.0.0.1) 20.00ms
+[I 180529 00:46:40 web:2106] 304 GET /register.html (127.0.0.1) 252.00ms
+[I 180529 00:46:40 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180529 00:46:40 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ae4efe89-9160-4bad-bacb-7959dd865f0d (127.0.0.1) 17.00ms
+[I 180529 00:46:50 web:2106] 200 POST /api/smscode (127.0.0.1) 9.00ms
+[E 180529 00:47:08 web:1621] Uncaught exception POST /api/register (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='POST', uri='/api/register', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 103, in post
+        session = Session(self)
+    TypeError: object() takes no parameters
+[E 180529 00:47:08 web:2106] 500 POST /api/register (127.0.0.1) 9.00ms
+[I 180529 00:54:40 web:2106] 304 GET /register.html (127.0.0.1) 273.00ms
+[I 180529 00:54:40 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 5.00ms
+[I 180529 00:54:40 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=15ad53a6-0d79-46c5-8c86-20ee84fbad01 (127.0.0.1) 21.00ms
+[I 180529 00:54:53 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[E 180529 00:55:21 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 00:55:21 web:2106] 200 POST /api/register (127.0.0.1) 23.00ms
+[I 180529 00:55:52 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 00:55:54 web:2106] 200 GET /api/imagecode?pcodeid=15ad53a6-0d79-46c5-8c86-20ee84fbad01&codeid=e04120bb-f088-4513-90b7-a0a7edc874bb (127.0.0.1) 6.00ms
+[I 180529 00:56:01 web:2106] 200 POST /api/smscode (127.0.0.1) 11.00ms
+[E 180529 00:56:14 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 00:56:14 web:2106] 200 POST /api/register (127.0.0.1) 8.00ms
+[I 180529 00:57:27 web:2106] 304 GET / (127.0.0.1) 257.00ms
+[I 180529 00:57:27 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 1.00ms
+[I 180529 00:57:28 web:2106] 200 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180529 00:57:28 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[W 180529 00:57:28 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 00:57:32 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180529 00:57:32 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=39350437-0507-4b7a-9472-d5e541f501fa (127.0.0.1) 16.00ms
+[I 180529 00:57:41 web:2106] 200 GET /api/imagecode?pcodeid=39350437-0507-4b7a-9472-d5e541f501fa&codeid=b9d1706c-93cc-42e8-b347-742441022d87 (127.0.0.1) 8.00ms
+[I 180529 00:57:42 web:2106] 200 GET /api/imagecode?pcodeid=b9d1706c-93cc-42e8-b347-742441022d87&codeid=52feca2b-60c9-4ccb-b810-e2306d880323 (127.0.0.1) 6.00ms
+[I 180529 00:57:43 web:2106] 200 GET /api/imagecode?pcodeid=52feca2b-60c9-4ccb-b810-e2306d880323&codeid=7b4d79bf-9381-4041-b122-e9d0079deb66 (127.0.0.1) 6.00ms
+[I 180529 00:57:43 web:2106] 200 GET /api/imagecode?pcodeid=7b4d79bf-9381-4041-b122-e9d0079deb66&codeid=47be278b-d20b-42bf-a193-2c69d5ea3216 (127.0.0.1) 7.00ms
+[I 180529 00:57:43 web:2106] 200 GET /api/imagecode?pcodeid=47be278b-d20b-42bf-a193-2c69d5ea3216&codeid=03bd21fd-74e2-4bcd-b13e-93808161afb0 (127.0.0.1) 7.00ms
+[I 180529 00:57:48 web:2106] 200 POST /api/smscode (127.0.0.1) 1264.00ms
+[E 180529 00:57:58 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 00:57:58 web:2106] 200 POST /api/register (127.0.0.1) 12.00ms
+[I 180529 01:00:19 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180529 01:00:19 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180529 01:00:19 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=6f231544-01df-488e-9f95-f6f1e7595aaa (127.0.0.1) 8.00ms
+[I 180529 01:00:27 web:2106] 200 GET /api/imagecode?pcodeid=6f231544-01df-488e-9f95-f6f1e7595aaa&codeid=0d34a7ca-5701-4cec-8cf7-b1d6e79debb2 (127.0.0.1) 7.00ms
+[I 180529 01:00:32 web:2106] 200 POST /api/smscode (127.0.0.1) 18.00ms
+[I 180529 01:01:12 web:2106] 200 POST /api/register (127.0.0.1) 12.00ms
+[I 180529 01:01:12 web:2106] 200 GET /api/check_login (127.0.0.1) 29.00ms
+[W 180529 01:01:12 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 01:01:12 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 3.00ms
+[I 180529 01:42:30 web:2106] 304 GET / (127.0.0.1) 228.00ms
+[I 180529 01:42:30 web:2106] 304 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180529 01:42:30 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[W 180529 01:42:30 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 01:42:37 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 1.00ms
+[I 180529 01:42:38 web:2106] 304 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[I 180529 01:42:38 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ad79fe2f-6ab8-424f-956c-22bb90d3b242 (127.0.0.1) 41.00ms
+[I 180529 01:42:47 web:2106] 200 GET /api/imagecode?pcodeid=ad79fe2f-6ab8-424f-956c-22bb90d3b242&codeid=de10d369-6f45-4e7a-81dd-a93e03c8adc3 (127.0.0.1) 6.00ms
+[I 180529 01:42:54 web:2106] 200 POST /api/smscode (127.0.0.1) 1267.00ms
+[E 180529 01:43:05 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 01:43:05 web:2106] 200 POST /api/register (127.0.0.1) 10.00ms
+[I 180529 01:44:21 web:2106] 304 GET /register.html (127.0.0.1) 257.00ms
+[I 180529 01:44:21 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=ca0fdf4d-072e-4011-925c-292c371bb055 (127.0.0.1) 16.00ms
+[I 180529 01:44:34 web:2106] 200 POST /api/smscode (127.0.0.1) 8.00ms
+[E 180529 01:44:50 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 01:44:50 web:2106] 200 POST /api/register (127.0.0.1) 8.00ms
+[I 180529 01:45:14 web:2106] 304 GET /register.html (127.0.0.1) 238.00ms
+[I 180529 01:45:14 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=2c434e26-51ac-47ae-9d8b-16aa93f51909 (127.0.0.1) 18.00ms
+[I 180529 01:45:21 web:2106] 200 GET /api/imagecode?pcodeid=2c434e26-51ac-47ae-9d8b-16aa93f51909&codeid=d6e5eef9-3b0d-4e32-a5da-9a01140a6e73 (127.0.0.1) 5.00ms
+[I 180529 01:45:28 web:2106] 200 POST /api/smscode (127.0.0.1) 16.00ms
+[E 180529 01:45:39 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 01:45:39 web:2106] 200 POST /api/register (127.0.0.1) 9.00ms
+[I 180529 01:46:28 web:2106] 200 GET /register.html (127.0.0.1) 334.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/css/ihome/main.css (127.0.0.1) 19.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/css/reset.css (127.0.0.1) 32.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/plugins/font-awesome/css/font-awesome.min.css (127.0.0.1) 32.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/css/ihome/register.css (127.0.0.1) 26.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/js/jquery.min.js (127.0.0.1) 47.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/plugins/bootstrap/css/bootstrap.min.css (127.0.0.1) 18.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/plugins/bootstrap/js/bootstrap.min.js (127.0.0.1) 8.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/images/logo@128x59.png (127.0.0.1) 4.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 3.00ms
+[I 180529 01:46:28 web:2106] 200 GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 (127.0.0.1) 4.00ms
+[I 180529 01:46:29 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=5510701a-0508-455f-9fb5-cff55f3cfca6 (127.0.0.1) 16.00ms
+[I 180529 01:46:37 web:2106] 200 GET /api/imagecode?pcodeid=5510701a-0508-455f-9fb5-cff55f3cfca6&codeid=140fdb02-dabd-4ecb-942d-a736e0850ec1 (127.0.0.1) 8.00ms
+[I 180529 01:46:42 web:2106] 200 POST /api/smscode (127.0.0.1) 10.00ms
+[E 180529 01:46:50 Passport:99] (1062, "Duplicate entry '13246301428' for key 'up_name'")
+[I 180529 01:46:50 web:2106] 200 POST /api/register (127.0.0.1) 9.00ms
+[I 180529 01:46:59 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 01:47:00 web:2106] 200 POST /api/register (127.0.0.1) 1.00ms
+[I 180529 02:11:01 autoreload:196] C:/Users/Hasee/Desktop/tornado/TornadoProject/server.py modified; restarting server
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:10 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[E 180529 02:14:15 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\routing.py", line 256, in finish
+        self.delegate.finish()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2139, in finish
+        self.execute()
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 2159, in execute
+        **self.handler_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 53, in __init__
+        print str("%s : "%(__file__) + str(self.xsrf_token))
+    IOError: [Errno 22] Invalid argument
+[I 180529 02:14:45 web:2106] 304 GET /login.html (127.0.0.1) 226.00ms
+[I 180529 02:14:50 web:2106] 304 GET /login.html (127.0.0.1) 3.00ms
+[I 180529 02:15:10 web:2106] 200 POST /api/login (127.0.0.1) 5.00ms
+[I 180529 02:15:10 web:2106] 304 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180529 02:15:10 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 02:15:10 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 02:15:26 web:2106] 200 GET /my.html (127.0.0.1) 4.00ms
+[I 180529 02:15:26 web:2106] 200 GET /static/css/ihome/my.css (127.0.0.1) 4.00ms
+[I 180529 02:15:26 web:2106] 200 GET /static/js/ihome/my.js (127.0.0.1) 3.00ms
+[W 180529 02:15:27 web:2106] 404 GET /api/profile (127.0.0.1) 2.00ms
+[I 180529 17:42:26 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py modified; restarting server
+[I 180529 17:42:52 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py modified; restarting server
+[I 180529 17:43:43 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\config.py modified; restarting server
+[I 180529 17:44:25 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\config.py modified; restarting server
+[I 180529 17:44:51 autoreload:196] C:\Users\Hasee\Desktop\tornado\TornadoProject\config.py modified; restarting server
+[I 180529 17:46:09 web:2106] 304 GET / (127.0.0.1) 495.00ms
+[I 180529 17:46:10 web:2106] 304 GET /static/css/ihome/index.css (127.0.0.1) 2.00ms
+[E 180529 17:46:12 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:46:12 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:46:12 web:2106] 500 GET /api/check_login (127.0.0.1) 2008.00ms
+[W 180529 17:46:12 web:2106] 404 GET /api/house/index (127.0.0.1) 4.00ms
+[W 180529 17:46:15 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 17:46:21 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[E 180529 17:46:23 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:46:23 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:46:23 web:2106] 500 GET /api/check_login (127.0.0.1) 2005.00ms
+[W 180529 17:46:23 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:46:23 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[I 180529 17:47:04 web:2106] 304 GET /login.html (127.0.0.1) 1.00ms
+[E 180529 17:47:13 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:13 Passport:145] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180529 17:47:13 web:2106] 200 POST /api/login (127.0.0.1) 2006.00ms
+[E 180529 17:47:15 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:15 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:15 web:2106] 500 GET /api/check_login (127.0.0.1) 2005.00ms
+[W 180529 17:47:15 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180529 17:47:15 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[I 180529 17:47:20 web:2106] 304 GET / (127.0.0.1) 2.00ms
+[E 180529 17:47:22 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:22 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:22 web:2106] 500 GET /api/check_login (127.0.0.1) 2008.00ms
+[W 180529 17:47:22 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:47:22 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180529 17:47:32 web:2106] 304 GET / (127.0.0.1) 1.00ms
+[I 180529 17:47:32 web:2106] 200 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180529 17:47:32 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:47:32 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[E 180529 17:47:48 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:48 Passport:145] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180529 17:47:48 web:2106] 200 POST /api/login (127.0.0.1) 2010.00ms
+[E 180529 17:47:50 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:50 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:47:50 web:2106] 500 GET /api/check_login (127.0.0.1) 2005.00ms
+[W 180529 17:47:50 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:47:50 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180529 17:48:37 web:2106] 304 GET /register.html (127.0.0.1) 2.00ms
+[I 180529 17:48:37 web:2106] 200 GET /static/js/ihome/register.js (127.0.0.1) 2.00ms
+[E 180529 17:48:39 VerifyCode:34] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180529 17:48:39 web:2106] 200 GET /api/imagecode?pcodeid=&codeid=578a8099-9786-4de2-a2d1-0c42f4a31cd3 (127.0.0.1) 2032.00ms
+[E 180529 17:48:51 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:48:51 Passport:145] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180529 17:48:51 web:2106] 200 POST /api/login (127.0.0.1) 2008.00ms
+[E 180529 17:48:53 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:48:53 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:48:53 web:2106] 500 GET /api/check_login (127.0.0.1) 2006.00ms
+[W 180529 17:48:53 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:48:53 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180529 17:50:52 web:2106] 304 GET / (127.0.0.1) 271.00ms
+[E 180529 17:50:54 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:50:54 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:50:54 web:2106] 500 GET /api/check_login (127.0.0.1) 2011.00ms
+[W 180529 17:50:54 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:50:54 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[E 180529 17:51:02 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:51:02 Passport:145] Error 10061 connecting to 127.0.0.1:6379. .
+[I 180529 17:51:02 web:2106] 200 POST /api/login (127.0.0.1) 2007.00ms
+[E 180529 17:51:04 session:83] Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:51:04 web:1621] Uncaught exception GET /api/check_login (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/check_login', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "C:\Users\Hasee\AppData\Roaming\Python\Python27\site-packages\tornado\web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\Passport.py", line 166, in get
+        if self.get_current_user():
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\handlers\BaseHandler.py", line 44, in get_current_user
+        self.session = Session(self)
+      File "C:\Users\Hasee\Desktop\tornado\TornadoProject\utils\session.py", line 84, in __init__
+        raise e
+    ConnectionError: Error 10061 connecting to 127.0.0.1:6379. .
+[E 180529 17:51:04 web:2106] 500 GET /api/check_login (127.0.0.1) 2007.00ms
+[W 180529 17:51:04 web:2106] 404 GET /api/house/index (127.0.0.1) 3.00ms
+[W 180529 17:51:04 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[I 180529 17:53:20 web:2106] 200 POST /api/login (127.0.0.1) 2.00ms
+[I 180529 17:53:20 web:2106] 200 GET /api/check_login (127.0.0.1) 1.00ms
+[W 180529 17:53:20 web:2106] 404 GET /api/house/index (127.0.0.1) 2.00ms
+[W 180529 17:53:20 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 1.00ms
+[W 180529 17:53:49 web:2106] 404 GET /api/house/area (127.0.0.1) 1.00ms
+[I 180529 17:53:52 web:2106] 304 GET /api/check_login (127.0.0.1) 2.00ms
+[W 180529 17:53:52 web:2106] 404 GET /api/house/index (127.0.0.1) 1.00ms
+[W 180529 17:53:52 web:2106] 404 GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map (127.0.0.1) 2.00ms
+[W 180529 17:54:02 web:2106] 404 GET /api/profile (127.0.0.1) 2.00ms
+[I 180529 17:54:05 web:2106] 200 GET /profile.html (127.0.0.1) 6.00ms
+[I 180529 17:54:05 web:2106] 200 GET /static/css/ihome/profile.css (127.0.0.1) 2.00ms
+[I 180529 17:54:05 web:2106] 200 GET /static/js/jquery.form.min.js (127.0.0.1) 3.00ms
+[I 180529 17:54:05 web:2106] 200 GET /static/js/ihome/profile.js (127.0.0.1) 2.00ms
+[W 180529 17:54:05 web:2106] 404 GET /api/profile (127.0.0.1) 1.00ms
+[I 180529 21:04:25 web:2106] 304 GET /api/check_login (127.0.0.1) 8.00ms
+[W 180529 21:04:25 web:2106] 404 GET /api/house/index (127.0.0.1) 7.00ms
+[W 180529 21:04:28 web:2106] 404 GET /api/profile (127.0.0.1) 1.00ms
+[I 180529 21:04:30 web:2106] 200 GET /myhouse.html (127.0.0.1) 281.00ms
+[I 180529 21:04:30 web:2106] 200 GET /static/css/ihome/myhouse.css (127.0.0.1) 6.00ms
+[I 180529 21:04:30 web:2106] 200 GET /static/js/ihome/myhouse.js (127.0.0.1) 4.00ms
+[W 180529 21:04:30 web:2106] 404 GET /api/profile/auth (127.0.0.1) 2.00ms
+[I 180529 21:04:37 web:2106] 304 GET /myhouse.html (127.0.0.1) 2.00ms
+[W 180529 21:04:38 web:2106] 404 GET /api/profile/auth (127.0.0.1) 1.00ms
+[W 180529 21:05:02 web:2106] 404 GET /api/profile (127.0.0.1) 2.00ms
+[I 180529 21:05:06 web:2106] 200 GET /auth.html (127.0.0.1) 6.00ms
+[I 180529 21:05:06 web:2106] 200 GET /static/js/ihome/auth.js (127.0.0.1) 2.00ms
+[W 180529 21:05:06 web:2106] 404 GET /api/profile/auth (127.0.0.1) 2.00ms
+[W 180529 21:05:29 web:2106] 405 POST /api/profile/auth (127.0.0.1) 2.00ms
