@@ -19,23 +19,34 @@ def require_logined(fun):
 """
 import functools
 from TornadoProject.utils.response_code import RET
-def require_logined(fun):
-    # @functools.wraps(fun) 到时候返回的函数名是原先的函数名 不会是wrapper
+# def require_logined(fun):
+#     # @functools.wraps(fun) 到时候返回的函数名是原先的函数名 不会是wrapper
+#     @functools.wraps(fun)
+#     def wrapper(request_handler_obj,*args,**kwargs):
+#         # 根据get_current_user方法判断，如果返回的不是一个空字典。
+#         # 证明用户已经登录过，保存了用户的session数据
+#         if not request_handler_obj.get_current_user():
+#             fun(request_handler_obj,*args,**kwargs)
+#         # 返回空字典，代表用户未登陆过，没有保存用户的session
+#         else:
+#             #  返回错误信息
+#             # 方法从哪里来的
+#              request_handler_obj.write(dict(errno=RET.SESSIONERR,errmsg="用户未登录"))
+#         print str(__file__) + str(fun.__name__)
+#     return wrapper
+
+def required_login(fun):
+    # 保证被装饰的函数对象的__name__不变
     @functools.wraps(fun)
-    def wrapper(request_handler_obj,*args,**kwargs):
-        # 根据get_current_user方法判断，如果返回的不是一个空字典。
-        # 证明用户已经登录过，保存了用户的session数据
+    def wrapper(request_handler_obj, *args, **kwargs):
+        # 调用get_current_user方法判断用户是否登录
         if not request_handler_obj.get_current_user():
-            fun(request_handler_obj,*args,**kwargs)
-        # 返回空字典，代表用户未登陆过，没有保存用户的session
+        # session = Session(request_handler_obj)
+        # if not session.data:
+            request_handler_obj.write(dict(errcode=RET.SESSIONERR, errmsg="用户未登录"))
         else:
-            #  返回错误信息
-            # 方法从哪里来的
-             request_handler_obj.write(dict(errno=RET.SESSIONERR,errmsg="用户未登录"))
-        print str(__file__) + str(fun.__name__)
+            fun(request_handler_obj, *args, **kwargs)
     return wrapper
-
-
 """
 使用装饰器的情况
 @require_logined
